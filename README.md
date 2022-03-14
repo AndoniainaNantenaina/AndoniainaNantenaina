@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndoniainaNantenaina
-- 👀 I’m interested in software, mobile and zeb development
+- 👀 I’m interested in software, mobile and web development
 - 🌱 I’m currently learning all these
 
 <!---
