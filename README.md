@@ -16,6 +16,7 @@
 </a>
 
 <h2>My Skills</h2>
+<a href="https://www.flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=Flutter&style=for-the-badge"></a>
 <a href="https://www.python.org" target="_blank">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
