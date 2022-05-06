@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=45&lines=Hello,+Bonjour,+Salama+e!;Welcome+to+my+GitHub+Profile!;I'm+a+Student+developer;I'm+interested+in+Flutter+Development" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello,+Bonjour,+Salama+e!;Welcome+to+my+GitHub+Profile!;I'm+a+Student+developer;I'm+interested+in+Flutter+Development" /></a>
 </p>
   
 </div>
