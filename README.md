@@ -34,6 +34,9 @@
 <br>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=AndoniainaNantenaina&theme=darcula&hide_border=true&background=FFFFFF00">
 
+![](https://komarev.com/ghpvc/?username=AndoniainaNantenaina)
+<br>
+#Merci_pour_votre_visite 😎
 </div>
 <!---
 AndoniainaNantenaina/AndoniainaNantenaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
