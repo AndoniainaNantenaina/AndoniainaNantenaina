@@ -24,6 +24,9 @@
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="https://www.flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=Flutter&style=for-the-badge"></a>
+<br><br>
+
+![Snake animation](https://github.com/AndoniainaNantenaina/AndoniainaNantenaina/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AndoniainaNantenaina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
